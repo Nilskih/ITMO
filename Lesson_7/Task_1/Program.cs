@@ -7,7 +7,7 @@ namespace Task_1
         static void Main(string[] args)
         {
             Console.WriteLine("Что ж попытка 2!");
-            Console.WriteLine("privet Patuit!"); ;
+            Console.WriteLine("privet Patuit!");
         }
     }
 }
