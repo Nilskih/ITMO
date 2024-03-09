@@ -9,8 +9,9 @@ namespace task5
     internal class Program
     {
         static void Main(string[] args)
-        {/* Запросить у пользователя целочисленное значение N. 
-          * Сформировать двумерный массив размера NxN следующего вида:*/
+        {
+            /* Запросить у пользователя целочисленное значение N. 
+             * Сформировать двумерный массив размера NxN следующего вида:*/
 
             Console.WriteLine("введите размер массива: ");
             int N = Convert.ToInt32(Console.ReadLine());
